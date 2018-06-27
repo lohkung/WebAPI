@@ -1,0 +1,5 @@
+D:\work\CSharp\source3\WebAPI\DB\bin\Debug\DB.dacpac
+D:\work\CSharp\source3\WebAPI\DB\bin\Debug\DB.dll
+D:\work\CSharp\source3\WebAPI\DB\bin\Debug\DB.pdb
+D:\work\CSharp\source3\WebAPI\DB\obj\Debug\DB.dll
+D:\work\CSharp\source3\WebAPI\DB\obj\Debug\DB.pdb
